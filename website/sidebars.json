@@ -1,0 +1,17 @@
+{
+  "docs-api": {
+    "UNCATEGORIZED": [
+      "Basic",
+      "ERC20",
+      "Factory",
+      "Fees",
+      "Migrations",
+      "Ownable",
+      "Pausable",
+      "Relay",
+      "Roles",
+      "SafeMath",
+      "Users"
+    ]
+  }
+}
